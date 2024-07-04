@@ -1,0 +1,22 @@
+.navbar{
+    display: flex;
+    background-color: rgb(223, 224, 224);
+    padding: 2px;
+    cursor: none;
+}
+.lft-nav{
+    display: flex;
+    padding-left: 40px;
+}
+.rit-nav{
+    display: flex;
+    padding-left: 570px;
+}
+.lft-nav p{
+    padding-left:7px;
+    padding-right:7px;
+}
+.rit-nav p{
+    padding-left:7px;
+    padding-right:7px;
+}

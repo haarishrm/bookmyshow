@@ -1,0 +1,17 @@
+.active{
+    background-color: yellow;
+}
+.navigation{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-bottom: #e62525 1px solid;
+}
+nav img{
+    height: 70px;
+}
+.tabs{
+    font-size: x-large;
+    color: #e62525;
+    cursor: progress;
+}

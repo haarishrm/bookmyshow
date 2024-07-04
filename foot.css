@@ -1,0 +1,24 @@
+.foot{
+    background-color: #2b3148;
+    color: whitesmoke;
+    padding-left: 50px;
+    padding-top: 50px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    cursor: pointer;
+}
+.flx{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.foot p{
+    font-size: large;
+    font-style: italic;
+}
+span{
+    font-size: xx-large;
+    display: inline;
+    letter-spacing: 5%;
+    gap: 30px; 
+}
